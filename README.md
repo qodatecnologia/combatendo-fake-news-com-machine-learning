@@ -5,3 +5,7 @@
 <ol><h4>Como:</ol></h4>
 <ol><p>Coletar 200 artigos por site através de webscrapping, aplicar técnicas de NLP(podendo utilizar naive bayes em conjunto) e etiqueta-los como fake ou não. Ao final, aplicar SVM para predição/score.</ol></p>
 </ul>
+<ul>
+  <ol><h4>Sites a coletar:</ol></p>
+  <li>Site 1</li>
+</ul>
