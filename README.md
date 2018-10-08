@@ -23,5 +23,5 @@
 </ul>
 <ul>
 <ol><h4>Próximos passos:</ol></h4>
-<ol><p>Criar dataset!</ol></p>
+<ol><p>Incluir dados no dataset!</ol></p>
 </ul>
