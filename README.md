@@ -7,6 +7,17 @@
 </ul>
 <ul>
 <h4>Sites a coletar:</h4>
-<li>Site 1</li>
-<h4 a href="https://g1.globo.com/fato-ou-fake/">Começar por aqui!</h4>
+<li a href="https://top10mais.org/top-10-melhores-sites-de-noticias-do-brasil/">Principais sites de noticias do Brasil(para etiquetar como fato e não fake)</li>
+<li a href="https://www.issoenoticia.com.br/artigo/projeto-da-usp-lista-10-maiores-sites-de-falsas-noticias-no-brasil">Principais sites fake do brasil:</li>
+<ol><a href="http://www.ceticismopolitico.com/">Ceticismo Político</a></ol>
+<ol><a href="http://www.correiodopoder.com/">Correio do Poder</a></ol>
+<ol><a href="http://www.criticapolitica.org/">Crítica Política</a></ol>  
+<ol><a href="http://www.diariodobrasil.org/ ">Diário do Brasil</a></ol> 
+<ol><a href="http://www.folhadopovo.com/ ">Folha do Povo</a></ol>
+<ol><a href="http://www.folhapolitica.org/ ">Folha Política</a></ol> 
+<ol><a href="http://www.gazetasocial.com/">Gazeta Social</a></ol>
+<ol><a href="http://www.implicante.org/ ">Implicante</a></ol>
+<ol><a href="https://jornalivre.com/">JornaLivre</a></ol>
+<ol><a href="https://pensabrasil.com/">Pensa Brasil</a></ol> 
+<h4 a href="https://g1.globo.com/fato-ou-fake/">Lista defakes desmentidas</h4>
 </ul>
