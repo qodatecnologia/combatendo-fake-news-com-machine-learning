@@ -7,5 +7,6 @@
 </ul>
 <ul>
 <h4>Sites a coletar:</h4>
-  <ol><li>Site 1</li></ol>
+<li>Site 1</li>
+<h4 a href="https://g1.globo.com/fato-ou-fake/">Começar por aqui!</h4>
 </ul>
