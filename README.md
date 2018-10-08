@@ -21,3 +21,7 @@
 <ol><a href="https://pensabrasil.com/">Pensa Brasil</a></ol> 
 <h4><a href="https://g1.globo.com/fato-ou-fake/">Lista defakes desmentidas</h4></a>
 </ul>
+<ul>
+<ol><h4>Próximos passos:</ol></h4>
+<ol><p>Criar dataset!</ol></p>
+</ul>
