@@ -7,5 +7,5 @@
 </ul>
 <ul>
 <h4>Sites a coletar:</h4>
-<li>Site 1</li>
+  <ol><li>Site 1</li></ol>
 </ul>
