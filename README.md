@@ -7,7 +7,7 @@
 </ul>
 <ul>
 <h4>Sites a coletar:</h4>
-<li a href="https://top10mais.org/top-10-melhores-sites-de-noticias-do-brasil/">Principais sites de noticias do Brasil(para etiquetar como FATO e não FAKE)</li>
+<li><a href="https://top10mais.org/top-10-melhores-sites-de-noticias-do-brasil/">Principais sites de noticias do Brasil(para etiquetar como FATO e não FAKE)</li></a>
 <li><a href="https://www.issoenoticia.com.br/artigo/projeto-da-usp-lista-10-maiores-sites-de-falsas-noticias-no-brasil">Principais sites fake do brasil(para etiquetar como FAKE e não fato)</li></a>
 <ol><a href="http://www.ceticismopolitico.com/">Ceticismo Político</a></ol>
 <ol><a href="http://www.correiodopoder.com/">Correio do Poder</a></ol>
