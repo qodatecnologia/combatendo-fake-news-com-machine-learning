@@ -19,5 +19,5 @@
 <ol><a href="http://www.implicante.org/ ">Implicante</a></ol>
 <ol><a href="https://jornalivre.com/">JornaLivre</a></ol>
 <ol><a href="https://pensabrasil.com/">Pensa Brasil</a></ol> 
-  <a href="https://g1.globo.com/fato-ou-fake/"><h4>Lista defakes desmentidas</h4></a>
+<h4><a href="https://g1.globo.com/fato-ou-fake/">Lista defakes desmentidas</h4></a>
 </ul>
