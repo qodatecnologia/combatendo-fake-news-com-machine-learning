@@ -2,9 +2,9 @@
 <img src="https://uploaddeimagens.com.br/images/001/665/034/original/FASES_PROJETO.png?1539285677">
 <ul>
 <ol><h4>Objetivo:</ol></h4>
-<ol><p>Criar preditor que avalie a probabilidade de uma notícia ser fake ou score de confiabilidade de um site</ol></p>
+<ol><p>Criar preditor que avalie a probabilidade de uma notícia ser fake</ol></p>
 <ol><h4>Como:</ol></h4>
-<ol><p>Coletar 200 artigos por site através de webscrapping, aplicar técnicas de NLP(podendo utilizar naive bayes em conjunto) e etiqueta-los como fake ou não. Ao final, aplicar SVM para predição/score.</ol></p>
+<ol><p>Coletar 200 artigos por site através de webscrapping, aplicar técnicas de NLP(podendo utilizar naive bayes em conjunto) e etiqueta-los como fake ou fato. Ao final, aplicar SVM para predição/score.</ol></p>
 </ul>
 <ul>
 <h4>Sites a coletar:</h4>
