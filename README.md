@@ -1,4 +1,5 @@
 <h3>Combatendo fake news com machine learning</h3>
+<img src="https://uploaddeimagens.com.br/images/001/665/034/original/FASES_PROJETO.png?1539285677">
 <ul>
 <ol><h4>Objetivo:</ol></h4>
 <ol><p>Criar preditor que avalie a probabilidade de uma notícia ser fake ou score de confiabilidade de um site</ol></p>
